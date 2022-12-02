@@ -1,0 +1,8 @@
+/* .info__card {
+  /* margin: 48px; */
+/* } */ 
+@media (max-width: 480px) {
+  .info__card {
+    margin-top: 244px;
+  }
+}

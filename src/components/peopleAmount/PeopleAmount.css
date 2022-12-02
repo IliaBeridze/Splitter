@@ -1,0 +1,36 @@
+
+.people__amount {
+  margin-top: 40px;
+}
+.people__amount-value{
+  width: 380px;
+  background-color: #F3F9FA
+  ;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.people__amount-input {
+  color: #5E7A7D;
+  font-size: 16px;
+  font-weight: 700;
+  font-family: sans-serif;
+  background-color: #F3F9FA  ;
+  text-align: right;
+  border: none;
+}
+
+
+
+
+.people__amount-text{
+  font-size: 16px;
+font-weight: 700;
+font-family: sans-serif;
+color: #5E7A7D;
+}
+.people__amount-icone{
+  padding-left: 17px;
+}

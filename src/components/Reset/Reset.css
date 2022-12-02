@@ -1,0 +1,20 @@
+.reset-btn {
+  margin-top: 131px;
+  color: #00474b;
+  font-weight: bold;
+  font-family: sans-serif;
+  font-size: 20px;
+  padding: 9px 38.5px;
+  background-color: #26c2ae;
+  border: none;
+  width: 333px;
+  border-radius: 5px;
+}
+.reset-btn:hover {
+  background-color: #9FE8DF;
+}
+@media (max-width:480px) {
+  .reset-btn {
+    width: 280px;
+  }
+}

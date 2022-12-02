@@ -1,0 +1,33 @@
+.select-tip{
+  /* margin-top: 40px; */
+  max-width: 379px;
+}
+
+.select__tip-text {
+  font-size: 16px;
+  font-weight: 700;
+  font-family: sans-serif;
+  color: #5e7a7d;
+}
+
+.select__tip-btn {
+  width: 117px;
+  height: 48px;
+  color: #fff;
+  border-radius: 5px;
+  font-size: 24px;
+  font-weight: 700;
+  border: none;
+  margin-left: 1px;
+}
+.select__tip-input {
+  width: 117px;
+  height: 48px;
+  color: #00474B;
+  border-radius: 5px;
+  font-size: 24px;
+  font-weight: 700;
+  border: none;
+  margin-left: 1px;
+  text-align: right;
+}

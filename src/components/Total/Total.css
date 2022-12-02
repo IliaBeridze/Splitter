@@ -1,0 +1,26 @@
+.total-info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  /* margin-bottom: 102px; */
+}
+.total__info-heading {
+  font-size: 16px;
+  font-weight: 700;
+  color: #fff;
+  font-family: sans-serif;
+}
+
+.total__info-text {
+  color: #7f9d9f;
+  font-size: 13px;
+  font-weight: 700;
+  font-family: sans-serif;
+}
+
+.total__bill-onperson {
+  font-size: 48px;
+  font-weight: 700;
+  font-family: sans-serif;
+  color: #26c2ae;
+}

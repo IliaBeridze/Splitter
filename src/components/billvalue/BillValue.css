@@ -1,0 +1,39 @@
+
+
+.bill__value-box{
+  width: 380px;
+  background-color: #F3F9FA
+  ;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.bill__value-input {
+  color: #5E7A7D;
+  font-size: 16px;
+  font-weight: 700;
+  font-family: sans-serif;
+  background-color: #F3F9FA  ;
+  border: none;
+  text-align: right;
+  outline: none;
+  
+}
+
+.bill-text {
+  font-size: 16px;
+  font-weight: 700;
+  font-family: sans-serif;
+  color: #5E7A7D;
+}
+.bill__value-icone {
+  padding-left: 19px;
+}
+
+@media (max-widht:480px) {
+  .bill-value {
+   padding-top: 20px;
+  }
+}
